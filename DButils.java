@@ -1,4 +1,3 @@
 Hi how r u?
 I have updated
-
-ino ino
+ i have no idea about git
