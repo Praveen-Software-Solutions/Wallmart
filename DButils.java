@@ -1,3 +1,4 @@
+Updated in master branch
 Hi how r u?
 I have updated
  i have no idea about git
